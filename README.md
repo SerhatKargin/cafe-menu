@@ -17,7 +17,7 @@ It was built as part of the FreeCodeCamp Responsive Web Design certification.
 
 ## 🌐 Live Demo
 
-View the site here: [https://SerhatKargin.github.io/cafe-menu/](https://SerhatKargin.github.io/cafe-menu/)
+[View the site here](https://SerhatKargin.github.io/cafe-menu/
 
 ## 🎓 About the Project
 
